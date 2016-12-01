@@ -1,0 +1,3 @@
+This is where the downloaded data lives. The format of the files will be `NCTname`.xml. 
+
+The xml will be read and displayed on a web portal. 
